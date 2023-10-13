@@ -64,3 +64,5 @@ If you delivery any of these features, it will increase your chances.
 
 ## Mobile Prototype
 [GO TO FIGMA](https://www.figma.com/proto/IivV2Vq6MJ6a24usioCuUk/Teste-técnico-Mobile---Bee-Delivery?type=design&node-id=212-45&viewport=1176%2C813%2C0.33&t=qEb3f4U1t5a4suOv-0&scaling=scale-down&starting-point-node-id=212%3A45)
+
+At resources folder, you can find marvel's logo and a favicon.
