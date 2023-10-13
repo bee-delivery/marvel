@@ -1,10 +1,10 @@
 # Teste Frontend - MARVEL API
 
 
-You must create a single-page application with Vue + Vue Router that consumes Marvel’s API (https://developer.marvel.com/docs).
+You must create a single-page application with Vue + Vue Router that consumes Marvel’s API [SEE DOCS](https://developer.marvel.com/docs).
 App structure must be as below.
 
-[Style Guide](https://www.figma.com/file/b21cB6Ph702fL11DqwoyWP/Teste-Frontend---Bee-Delivery?type=design&node-id=2-2&mode=design&t=3U9mo2tpqc08ckd9-0)
+[STYLE GUIDE](https://www.figma.com/file/b21cB6Ph702fL11DqwoyWP/Teste-Frontend---Bee-Delivery?type=design&node-id=2-2&mode=design&t=3U9mo2tpqc08ckd9-0)
 
 ## Web Prototype
 [GO TO FIGMA](https://www.figma.com/proto/IivV2Vq6MJ6a24usioCuUk/Teste-t%C3%A9cnico-Mobile-Bee-Delivery?type=design&node-id=203-2&viewport=1176%2C813%2C0.33&t=qEb3f4U1t5a4suOv-0&scaling=scale-down&starting-point-node-id=212%3A45)
