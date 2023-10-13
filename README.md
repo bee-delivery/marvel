@@ -20,22 +20,26 @@ Your application must follow those rules below, we recommend you to check if you
 - Must follow [Bootstrap 5.3](https://getbootstrap.com) grid system.
 - Icons must be from [HERE](https://ionic.io/ionicons).
 
-
 ### Rules for MAIN PAGE
 - Shows a welcome message to user, "WELCOME TO MARVEL'S DIRECTORY".
 
 ### Rules for CHARACTERS PAGE
 - Shows a list of characters from marvel’s API.
+- Thumbnail and name.
 - User can click in any of characters, after that, page will load detailed information of the character at CHARACTER DETAIL PAGE.
+- Thumbnail, name, description and it's comics.
 
 ###  CHARACTER DETAIL PAGE
-- This page is loaded when user clicks in any of characters of characters page. 
+- This page is loaded when user clicks in any of characters of characters page.
+- Thumbnail, name, description and it's comics.
 
 ### Rules for COMICS PAGE
 - Shows a list of comics from marvel’s API.
+- Thumbnail, title and number of pages.
 
 ### Rules for EVENTS PAGE
 - Show a list of events from marvel’s API.
+- Thumbnail, title, description and date.
 
 ### Rules for CONTACT PAGE
 - User can provide his name, email, phone and any message he wants.
@@ -51,7 +55,6 @@ If you delivery any of these features, it will increase your chances.
 - Pagination
 - Search for characters
 - Search for comics
-
 
 ## UI Style Guide
 [UI STYLE GUIDE](https://www.figma.com/file/b21cB6Ph702fL11DqwoyWP/Teste-Frontend---Bee-Delivery?type=design&node-id=2-2&mode=design&t=3U9mo2tpqc08ckd9-0).
