@@ -56,6 +56,9 @@ If you delivery any of these features, it will increase your chances.
 - Search for characters
 - Search for comics
 
+# When you finish
+When you finish, you should publish your project in a public reporistory at github.com and send an email to luan@beedelivery.com.br BEFORE the time runs out.
+
 ## UI Style Guide
 [UI STYLE GUIDE](https://www.figma.com/file/b21cB6Ph702fL11DqwoyWP/Teste-Frontend---Bee-Delivery?type=design&node-id=2-2&mode=design&t=3U9mo2tpqc08ckd9-0).
 
